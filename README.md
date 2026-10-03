@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of huoxin/user-handles.** Not for installation: use [Packagist](https://packagist.org/packages/huoxin/user-handles) or the [upstream repository](https://github.com/huoxin233/flarum-ext-user-handles).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/huoxin-user-handles/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/huoxin-user-handles/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-09-28 | `^1.2.0` | [Browse](https://github.com/flarchive/huoxin-user-handles/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/huoxin-user-handles.json](https://github.com/flarchive/archive-index/blob/main/packages/huoxin-user-handles.json)
 
